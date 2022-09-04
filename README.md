@@ -16,6 +16,10 @@ cd src
 .\test.exe
 ```
 
+## Usage
+
+If you want to generate new generations, press up arrow key.
+
 ## Contributing
 
 Bug fixes and code optimization are welcome. First create pull request and contact me on discord to discuss it.
